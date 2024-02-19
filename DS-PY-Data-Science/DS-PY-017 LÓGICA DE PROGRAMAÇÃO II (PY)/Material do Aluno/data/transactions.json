@@ -1,0 +1,502 @@
+[
+    {
+        "UUID": "1057fc42-552d-4051-b024-c32f44891d1f",
+        "preco": 861.38,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "72183f00-9033-4627-a2cc-4b34e7f02fae",
+        "preco": 176.57,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "ef029833-7a45-4aaf-b356-1785d6304064",
+        "preco": 929.28,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "979b0024-234e-4f18-976a-809e7c4d183f",
+        "preco": 625.86,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "9ed70ff3-c01a-41e6-bf47-ee5da97b5f06",
+        "preco": 711.38,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "15bd2c08-fd29-4e3a-b463-660ccbae9201",
+        "preco": 480.79,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "f1178f7a-3a3a-4f0b-b6f8-5207f34e74e7",
+        "preco": 83.56,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "882bb27d-6f96-4ae1-bb5f-cbef47cce9be",
+        "preco": 358.21,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "bf00f16b-4101-4866-a4e5-24fc8356d215",
+        "preco": 101.18,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "a37e2057-d4ac-4168-ae51-65d8ba4add1d",
+        "preco": 727.72,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "5b92eab4-90e5-4101-b6e3-fc92220b47c7",
+        "preco": 707.45,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "98e8fc7f-6147-4808-9c47-0571f1f2c2d7",
+        "preco": 648.6,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "a3cd265f-d99e-432d-a562-2fae3ccd11d5",
+        "preco": 637.11,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "eb030ac7-04f9-43e8-b3f7-a072203bffda",
+        "preco": 675.76,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "a04de2d8-e366-4b69-958c-be45541a604d",
+        "preco": 925.83,
+        "categoria": "casa"
+    },
+    {
+        "UUID": "59d31e34-a7d3-4c6b-bc96-baeb69f5d456",
+        "preco": 25.99,
+        "categoria": "lazer"
+    },
+    {
+        "UUID": "ca9415b4-453e-49f1-aa95-4da3866b4cc0",
+        "preco": 63.13,
+        "categoria": "lazer"
+    },
+    {
+        "UUID": "2d2bf003-14ec-48c8-868d-b08b6821401f",
+        "preco": 541.91,
+        "categoria": "lazer"
+    },
+    {
+        "UUID": "4870c1f9-2358-4cdc-bb66-7a4ac4531fa7",
+        "preco": 600.99,
+        "categoria": "lazer"
+    },
+    {
+        "UUID": "b018ca22-0d32-41e8-915a-83499f285576",
+        "preco": 853.16,
+        "categoria": "lazer"
+    },
+    {
+        "UUID": "273402a3-6309-44af-a74c-0ecc96d1e5a4",
+        "preco": 837.83,
+        "categoria": "lazer"
+    },
+    {
+        "UUID": "ad87afd4-260b-454e-be61-a7a31b221680",
+        "preco": 262.42,
+        "categoria": "lazer"
+    },
+    {
+        "UUID": "82788a76-7879-4181-97d5-e8157f210209",
+        "preco": 122.75,
+        "categoria": "lazer"
+    },
+    {
+        "UUID": "cd577d14-3d61-473e-9842-6eadf2af3c3e",
+        "preco": 622.2,
+        "categoria": "lazer"
+    },
+    {
+        "UUID": "a3f03e9e-b51c-45d5-8330-2db8aef01bd3",
+        "preco": 662.23,
+        "categoria": "lazer"
+    },
+    {
+        "UUID": "90612ca1-6f4a-4912-ad1c-edb8f92cc313",
+        "preco": 482.97,
+        "categoria": "viagens"
+    },
+    {
+        "UUID": "97fbfe1c-5bcc-4959-84af-2af43ab9b621",
+        "preco": 223.64,
+        "categoria": "viagens"
+    },
+    {
+        "UUID": "8811fd1b-209d-4459-b62a-78c3e059d4b2",
+        "preco": 395.86,
+        "categoria": "viagens"
+    },
+    {
+        "UUID": "391e41e5-b9be-406e-b359-79de9b2cd2f8",
+        "preco": 181.36,
+        "categoria": "viagens"
+    },
+    {
+        "UUID": "c5617218-1fe5-4cf5-805d-715c0f72c3ec",
+        "preco": 509.38,
+        "categoria": "viagens"
+    },
+    {
+        "UUID": "1feb8b8b-ffc4-4e9a-ad96-bf4003d2364e",
+        "preco": 506.87,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "e3b8ac62-9b13-4d19-aab8-43e8932183bb",
+        "preco": 491.96,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "12a33c54-d069-4ae1-8f19-5bc3d2d0c2cc",
+        "preco": 543.14,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "8943ec1b-9287-4595-8b70-8970ac510b39",
+        "preco": 724.29,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "fc399b8a-e1b9-4f21-b857-fae0b55b03f5",
+        "preco": 409.41,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "894a795b-dbf2-4702-912e-0a106cd4bcc8",
+        "preco": 909.13,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "6327e199-6131-4e07-86c2-af31a411f47c",
+        "preco": 625.65,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "d20deabc-54c1-4507-94b0-6612cfb26db7",
+        "preco": 188.08,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "efb3a643-2da5-45bc-b9f9-ceb8e12cc4b7",
+        "preco": 16.19,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "45d15277-ac54-4cc6-acf9-dc098288a928",
+        "preco": 567.16,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "c0524850-c625-4b78-aafe-6ecfa384a80d",
+        "preco": 366.54,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "4a617c76-8c85-4d73-9976-f5b928a2c6a8",
+        "preco": 409.29,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "f2867c7f-29f0-47cd-9da6-0c3d6609dbe3",
+        "preco": 13.52,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "d0944074-7b30-40e9-8e23-7b3cfcfd4a28",
+        "preco": 194.7,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "5736eff1-c8f1-4ab0-952e-55089b4796fb",
+        "preco": 187.18,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "c6e6db82-cda8-49d0-96df-33953a7e52c8",
+        "preco": 559.07,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "4213b792-70f6-4b34-b074-696ab87c5fb0",
+        "preco": 309.73,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "e29db508-1972-46c7-bc89-9eb2158c7b65",
+        "preco": 61.91,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "fd15476f-e869-4352-86c8-b5d21657a81f",
+        "preco": 800.45,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "0a7288ee-529c-4a29-a648-5a2b1b5446ad",
+        "preco": 812.11,
+        "categoria": "investimentos"
+    },
+    {
+        "UUID": "ca1ee6fd-fe02-449e-a0cb-5258bbd50b0b",
+        "preco": 6.98,
+        "categoria": "transferencias"
+    },
+    {
+        "UUID": "6b82a936-7e99-4397-a943-312bed089cc7",
+        "preco": 910.79,
+        "categoria": "transferencias"
+    },
+    {
+        "UUID": "c0023595-a381-423a-879a-142b910dc124",
+        "preco": 686.5,
+        "categoria": "transferencias"
+    },
+    {
+        "UUID": "c47fb583-6615-4319-8ce0-bf0d6ba872e1",
+        "preco": 774.24,
+        "categoria": "transferencias"
+    },
+    {
+        "UUID": "4daaf5d5-a6c0-4971-92a6-bacc7ff16515",
+        "preco": 413.57,
+        "categoria": "transferencias"
+    },
+    {
+        "UUID": "f00e4e76-877c-497b-a7be-d57ef36ce551",
+        "preco": 866.0,
+        "categoria": "transferencias"
+    },
+    {
+        "UUID": "73002fe8-0b4a-4797-870b-73698f3c2604",
+        "preco": 976.86,
+        "categoria": "transferencias"
+    },
+    {
+        "UUID": "7e4ca388-7549-4d9c-a92c-2d8f715d777e",
+        "preco": 80.23,
+        "categoria": "transferencias"
+    },
+    {
+        "UUID": "343b2b16-0f35-400d-b8e7-8f34b3d4bf31",
+        "preco": 338.62,
+        "categoria": "transferencias"
+    },
+    {
+        "UUID": "c05e9f6a-f1d4-4dc4-8a86-9dac2936dc06",
+        "preco": 853.4,
+        "categoria": "transferencias"
+    },
+    {
+        "UUID": "9c8ae9d2-2d82-4827-a857-3ae935119379",
+        "preco": 188.19,
+        "categoria": "saude"
+    },
+    {
+        "UUID": "ddfa63cc-d805-4cd0-9d5e-ec2502bf3043",
+        "preco": 698.13,
+        "categoria": "saude"
+    },
+    {
+        "UUID": "06262907-10a3-4455-96f3-9f0e320a6c52",
+        "preco": 974.72,
+        "categoria": "saude"
+    },
+    {
+        "UUID": "2596e76f-97cb-49d8-bb4d-5bc580e2b36f",
+        "preco": 547.47,
+        "categoria": "saude"
+    },
+    {
+        "UUID": "eb6faf01-136c-441c-a9f9-506b278ab54d",
+        "preco": 586.58,
+        "categoria": "saude"
+    },
+    {
+        "UUID": "05a00936-e114-49ea-bba6-37608a4191a8",
+        "preco": 660.23,
+        "categoria": "saude"
+    },
+    {
+        "UUID": "a6cfd189-a9a9-47b5-a55e-5d7292986cea",
+        "preco": 257.41,
+        "categoria": "saude"
+    },
+    {
+        "UUID": "5732a878-3b31-4b9a-850e-f43c4808b7f6",
+        "preco": 307.22,
+        "categoria": "saude"
+    },
+    {
+        "UUID": "e0a55f12-3815-4fb7-a922-107c1095b431",
+        "preco": 726.91,
+        "categoria": "saude"
+    },
+    {
+        "UUID": "036320d2-23b1-4fda-86a9-348c6dfaf3fc",
+        "preco": 467.58,
+        "categoria": "saude"
+    },
+    {
+        "UUID": "15716ded-2b18-45bc-8b91-1704f63a9ffe",
+        "preco": 452.69,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "1e6fc66e-fbc5-4e69-b307-9cebff3363c7",
+        "preco": 254.11,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "74a396f0-bf0a-444e-8523-523ba47c13b8",
+        "preco": 494.28,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "c5436b6d-9721-4c23-9b0e-6a8472f0d512",
+        "preco": 223.04,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "649a8a7a-209a-427f-bc48-64b291ed57c3",
+        "preco": 397.53,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "2c4fbd3a-667b-43f4-9569-be90caeabbe3",
+        "preco": 829.18,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "92d93016-1ada-4dff-a9ef-8c74d929e92a",
+        "preco": 16.78,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "867444d6-c1a0-4ad2-b22d-819d6d0ae300",
+        "preco": 898.57,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "f73042da-2020-45b2-b3c5-9bebb219ccd3",
+        "preco": 625.73,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "3d78a9a9-1249-4630-bb98-3d8d6e51ad6c",
+        "preco": 482.64,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "eb97f457-c1b2-4087-b681-d8d682822ba8",
+        "preco": 632.57,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "56394767-8ee0-4343-923b-1422f45365e0",
+        "preco": 488.0,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "85b8e0ef-158a-4f93-bb72-288880684537",
+        "preco": 307.34,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "f0d5b31d-8d5f-4be5-9421-4542df88478f",
+        "preco": 796.07,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "b9d88d7b-4e1e-43ce-88d3-56e8344b6f93",
+        "preco": 222.74,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "bc01f622-2474-4d18-9849-e2dc4e52dfe4",
+        "preco": 458.44,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "f976da95-aa34-4eda-88f5-4e64a277157b",
+        "preco": 682.89,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "673fc8a3-2abb-447b-9ed0-2cde93a6bc6f",
+        "preco": 882.57,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "fa106ec6-6970-4f65-91bc-4214f91536b6",
+        "preco": 36.24,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "a9a0441e-febe-4058-91c0-3fd8c7fd9625",
+        "preco": 228.21,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "e282ce58-10a2-4146-9daa-72a6498da61c",
+        "preco": 829.57,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "7cf82d85-3a54-40e8-a3ce-dcf7ff0414df",
+        "preco": 711.84,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "2f3bedbf-b2ad-45d8-9cc0-b83b1f6da487",
+        "preco": 550.11,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "a19a43d4-e8db-4d28-a9f9-24276a886adf",
+        "preco": 482.39,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "f4b11518-7834-4e70-a369-d4eaf7bab628",
+        "preco": 390.73,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "fe92baae-4588-4b2d-aa6b-194294d9b897",
+        "preco": 431.17,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "07154c0b-82ac-466f-942e-a5292f5c37b2",
+        "preco": 831.04,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "3669083c-225d-4ea3-8840-6ad45f698a40",
+        "preco": 765.52,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "7ecc1c82-a8d0-4e05-a0e1-54de8b0f331d",
+        "preco": 534.65,
+        "categoria": "alimentacao"
+    },
+    {
+        "UUID": "84c3e635-acb2-458d-b61e-635592503f85",
+        "preco": 356.19,
+        "categoria": "alimentacao"
+    }
+]
