@@ -37,19 +37,24 @@
 #
 # Boa sorte e divirtam-se :)
 # ------------------------------------------------------------------------------
-
+# -----------------------
 # depencies
+# -----------------------
 import json
 import os
 import uuid
 import random
 import sys
 
-# load settings --
+# -----------------------
+# load settings
+# -----------------------
 sys.path.append('./data/')
 from data import settings
 
-# SYSTEM functions -----
+# -----------------------
+# SYSTEM functions 
+# -----------------------
 # não alterar nada das funções de system
 def criar_transacoes(num_transacoes, proporcao_categorias, seed=settings.seed):
     assert sum([proporcao_categorias[k] for k in proporcao_categorias])==1, '`proporcao_categorias` não soma 100%! Favor rever.'
@@ -104,8 +109,10 @@ def tela_inicial():
     print("-" * 10)
     print("0. Sair")
     print('\n')
-# ----------
-# PROGRAM functions ----------
+
+# -----------------------
+# PROGRAM functions 
+# -----------------------
 # pode editar como quiser as funções abaixo! Somente não altere os nomes das funções.
 # para alterar as funções abaixo, basta apagar o `pass` e preencher com as instruções.
 
@@ -113,7 +120,9 @@ def run():
     """
     Esta é a função principal que vai rodar o programa
     """
-    # -- NÃO ALTERAR ESTE BLOCO --
+    # -----------------------
+    # NÃO ALTERAR ESTE BLOCO
+    # -----------------------
     # criar o banco de dados caso ele não exista
     print(os.path.abspath('.'))
     if not os.path.exists('./data/transactions.json'):
@@ -121,6 +130,7 @@ def run():
     
     # load bd
     bd = load_bd()
+    # -----------------------
     # -----------------------
     
 
@@ -183,6 +193,9 @@ def excluir_transacao():
     """
     pass
 
+# -----------------------
+# MAIN SCRIPT
+# -----------------------
 # não alterar nada abaixo
 if __name__ == "__main__":
     # inicia o programa
