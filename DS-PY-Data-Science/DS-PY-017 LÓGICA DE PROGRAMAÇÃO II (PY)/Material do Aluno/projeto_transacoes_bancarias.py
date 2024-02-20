@@ -181,6 +181,12 @@ def consultar_transacao_por_ID():
     """
     pass
 
+def cadastrar_transacao():
+    """
+    Cadastra uma nova transação.
+    \nObs:Para gerar um novo uuid, veja como é feito na função `criar_transacoes`.
+    """
+
 def editar_transacao_por_ID():
     """
     Edita uma transação específica pelo seu UUID.
