@@ -1,4 +1,6 @@
 # projeto_transacoes_bancarias -- DS-PY-17 - logica de programacao II
+# readme link here: 
+# https://github.com/allansuzuki/ADA_classes/blob/main/DS-PY-Data-Science/DS-PY-017%20L%C3%93GICA%20DE%20PROGRAMA%C3%87%C3%83O%20II%20(PY)/Material%20do%20Aluno/projeto_README.md
 # 
 # Esse programa é um sistema de gestao de transacoes de uma conta bancária pessoal
 # no qual os dados são de transações e possuem seu valor, a categoria do gasto e seu ID.
