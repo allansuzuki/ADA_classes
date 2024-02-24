@@ -21,11 +21,11 @@
 # mas não alterar o nome das funções existentes.
 #
 # 3. Coloque opções de navegabilidade em cada janela que o usuário estiver.
-# Por exemplo, se ele escolher a opcao "alterar registro" sem querer, tem que ter a opcao de voltar para a tela anterior ou inicial.
+# Por exemplo, se ele escolher a opcao "alterar transacao" sem querer, tem que ter a opcao de voltar para a tela anterior ou inicial.
 #
-# 4. Caso tenha alterado os dados e queira os original novamente,
-# apage a pasta `data` e inicie o programa novamente para gerar os dados
-# os valores serão os mesmo, porém os UUID NÃO serão os mesmos!!
+# 4. Caso por qualquer motivo queira os dados originais novamente,
+# apage a pasta `data` e inicie o programa novamente para gerar os dados.
+# Os valores serão os mesmos, porém os UUID NÃO serão os mesmos!!
 #
 # Critérios (pontos):
 #   tarefas validacoes  total
@@ -119,21 +119,7 @@ def tela_inicial():
 def run():
     """
     Esta é a função principal que vai rodar o programa
-    """
-    # -----------------------
-    # NÃO ALTERAR ESTE BLOCO
-    # -----------------------
-    # criar o banco de dados caso ele não exista
-    print(os.path.abspath('.'))
-    if not os.path.exists('./data/transactions.json'):
-        criar_bd()
-    
-    # load bd
-    bd = load_bd()
-    # -----------------------
-    # -----------------------
-    
-
+    """  
     # exibe a tela inicial
     tela_inicial()
 
@@ -204,5 +190,23 @@ def excluir_transacao():
 # -----------------------
 # não alterar nada abaixo
 if __name__ == "__main__":
+    
+    # -----------------------
+    # NÃO ALTERAR ESTE BLOCO
+    # -----------------------
+    # criar o banco de dados caso ele não exista
+    print(os.path.abspath('.'))
+    if not os.path.exists('./data/transactions.json'):
+        criar_bd()
+    
+    # load bd 
+    bd = load_bd()
+    # -----------------------
+
+    # -----------------------
+    # ABAIXO PODE ALTERAR
+    # -----------------------
+    #limpar console (opcional)
+    os.system('cls' if os.name == 'nt' else 'clear')
     # inicia o programa
     run()
