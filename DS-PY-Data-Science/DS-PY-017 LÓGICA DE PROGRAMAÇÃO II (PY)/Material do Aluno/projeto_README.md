@@ -12,7 +12,7 @@ Também deve fazer com que o programa NUNCA pare, ou seja, <br>
 caso ocorra um possível erro, deve validar as entradas, detectar erros e avisar o usuário <br>
 mas o programa não deve parar.
 
-Por favor crie uma cópia desde script .py e todos os dados na pasta `data` <br>
+Por favor faça uma cópia desde script `.py` e todos os dados na pasta `data` <br>
 
 
 **Notas importantes:**
@@ -29,7 +29,7 @@ mas não alterar o nome das funções existentes.
 Por exemplo, se ele escolher a opcao "alterar transacao" sem querer, tem que ter a opcao de voltar para a tela anterior ou inicial.
 
 4. Caso por qualquer motivo queira os dados originais novamente,
-apage a pasta `data` e inicie o programa novamente para gerar os dados.
+apage o arquivo `transactions.json` na pasta `data` e inicie o programa .py novamente para gerar os dados.
 Os valores serão os mesmos, porém os UUID NÃO serão os mesmos!!
 
 -----
