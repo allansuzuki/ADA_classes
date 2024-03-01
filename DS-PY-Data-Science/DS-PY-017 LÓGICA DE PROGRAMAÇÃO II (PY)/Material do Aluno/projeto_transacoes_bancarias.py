@@ -1,4 +1,6 @@
 # projeto_transacoes_bancarias -- DS-PY-17 - logica de programacao II
+# readme link here: 
+# https://github.com/allansuzuki/ADA_classes/blob/main/DS-PY-Data-Science/DS-PY-017%20L%C3%93GICA%20DE%20PROGRAMA%C3%87%C3%83O%20II%20(PY)/Material%20do%20Aluno/projeto_README.md
 # 
 # Esse programa é um sistema de gestao de transacoes de uma conta bancária pessoal
 # no qual os dados são de transações e possuem seu valor, a categoria do gasto e seu ID.
@@ -9,7 +11,6 @@
 # caso ocorra um possível erro, deve validar as entradas, detectar erros e avisar o usuário
 # mas o programa não deve parar.
 #
-# Por favor crie uma cópia desde script .py e todos os dados na pasta `data` 
 #
 # Notas importantes: 
 # 1. As funções que geram os dados e criam a interface do sistema já estão prontas. 
@@ -24,7 +25,7 @@
 # Por exemplo, se ele escolher a opcao "alterar transacao" sem querer, tem que ter a opcao de voltar para a tela anterior ou inicial.
 #
 # 4. Caso por qualquer motivo queira os dados originais novamente,
-# apage a pasta `data` e inicie o programa novamente para gerar os dados.
+# apage o json `transactions` na pasta `data` e inicie o programa novamente para gerar os dados.
 # Os valores serão os mesmos, porém os UUID NÃO serão os mesmos!!
 #
 # Critérios (pontos):
