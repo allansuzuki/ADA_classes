@@ -10,6 +10,8 @@ Você deve entender o contexto e o objetivo principal do problema. Além disso, 
 
 **Dataset**:
 
+Os dados se encontram na pasta: _Material do Aluno/data/Projectdata_Bank_Personal_Loan_Modelling.csv_
+
 Essas são as descrições das colunas do dataset:
 
 | Column            | Description                       |
