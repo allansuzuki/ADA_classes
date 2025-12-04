@@ -1,0 +1,13 @@
+Marketing Funnel by Olist
+
+  * **Link:** [Kaggle - Marketing Funnel by Olist](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
+
+  * **Tabelas Selecionadas:**
+
+    1.  `marketing_qualified_leads` (A entrada: data do primeiro contato).
+    2.  `closed_deals` (A conversão: data do ganho e receita).
+
+  * **Contexto de Negócio:** O marketing investe pesado em aquisição de leads (MQLs), mas a conversão para "Negócio Fechado" varia muito. O time está pressionado a otimizar o *budget* cortando gastos em canais que trazem volume, mas baixa qualidade de leads.
+
+  * **Business Case do Stakeholder (Head de Marketing):**
+    *"Como Head de Marketing, **exijo uma análise** de performance do nosso pipeline de aquisição. Preciso saber o tempo médio do ciclo de vendas (*time-to-close*) e como ele varia dependendo da origem do lead. Preciso de evidências concretas para garantir que **não cortaremos, por engano,** nossas fontes de receita mais eficientes."*

@@ -1,0 +1,13 @@
+7_Dunnhumby - The Complete Journey
+
+  * **Link:** [Kaggle - Dunnhumby - The Complete Journey](https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey)
+
+  * **Tabelas Selecionadas:**
+
+    1.  `transaction_data.csv` (Contém as compras com data e hora).
+    2.  `campaigns.csv` (Contém a exposição do cliente à campanha e o resgate de cupom).
+
+  * **Contexto de Negócio:** Uma grande rede de varejo investe milhões em programas de fidelidade e distribuição de cupons. Há uma dúvida interna se o dinheiro está sendo bem gasto: o cupom realmente gera uma compra *incremental* ou está apenas subsidiando uma compra que o cliente já faria? O funil é: Exposição $\to$ Resgate $\to$ Compra Efetiva.
+
+  * **Business Case do Stakeholder (Diretor de Loyalty & Campanhas):**
+    *"Como Diretor de Loyalty, **não aguento mais gastar sem saber o ROI real**. Preciso de uma análise urgente do funil de conversão dos nossos cupons. O cliente é exposto (Timestamp 1), e em quanto tempo ele resgata o cupom (Timestamp 2)? E o mais importante: esse resgate gerou um valor de compra maior do que a média? Meu objetivo é **eliminar as campanhas que são apenas despesas** disfarçadas de benefício e focar naquelas que criam um funil de compra imediato e lucrativo."*

@@ -1,0 +1,13 @@
+### 1\. Brazilian E-Commerce Public Dataset by Olist
+
+  * **Link:** [Kaggle - Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+  * **Tabelas Selecionadas:**
+
+    1.  `olist_orders_dataset` (Contém todos os timestamps do funil logístico).
+    2.  `olist_order_items_dataset` (Contém dados de receita: `price` e `freight_value`).
+
+  * **Contexto de Negócio:** A Olist opera como um marketplace, e sua confiabilidade logística está sob risco. Suspeita-se de gargalos entre a aprovação de pagamento e a entrega para a transportadora, gerando desgaste na confiança do cliente.
+
+  * **Business Case do Stakeholder (Diretor de Logística Operacional):**
+    *"Como Diretor de Logística, solicito uma **auditoria detalhada** sobre a velocidade do nosso fulfillment. Precisamos identificar qual etapa do ciclo de vida do pedido contribui mais para os atrasos nas entregas. O objetivo é isolar onde estão as ineficiências para que possamos renegociar SLAs com as transportadoras ou ajustar nossos procedimentos internos de manuseio."*

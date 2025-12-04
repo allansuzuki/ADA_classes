@@ -1,0 +1,13 @@
+6_CRM Sales Opportunities Pipeline
+
+  * **Link:** [Kaggle - CRM Sales Opportunities](https://www.kaggle.com/datasets/innocentmfa/crm-sales-opportunities)
+
+  * **Tabelas Selecionadas:**
+
+    1.  `sales_pipeline.csv` (Tabela principal com todos os estágios do funil e datas).
+    2.  `accounts.csv` (Para segmentar pelo setor da empresa cliente).
+
+  * **Contexto de Negócio:** A empresa de software B2B está com um pipeline "inchado": muitas oportunidades abertas, mas poucas fecham. Negócios antigos ficam estagnados por meses, distorcendo o *forecast* de receita e fazendo a diretoria duvidar da eficácia do time de vendas.
+
+  * **Business Case do Stakeholder (Diretor Comercial):**
+    *"Como Diretor Comercial, **preciso limpar urgentemente** nosso *forecast* de vendas. Quero uma análise da eficiência do funil por setor de indústria. Qual a duração média (em dias) desde a prospecção até o fechamento para uma conta do setor de Tecnologia versus uma do setor Médico? Suspeito que a equipe está gastando tempo demais onde o ciclo de vendas é mais lento. **Preciso de dados para redirecionar o foco** para o setor onde o funil de conversão é mais rápido."*

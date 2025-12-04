@@ -46,4 +46,7 @@ Vamos criar uma segmentação de dados com base no filme, tipo de filme e direto
 
 * Slicer: Por filme e por diretor
 
-Mostrar a relação de interação entre filtros e elementos visuais. Tirar a interação de cards totais e manter os cards de valor específico.
+Mostrar a relação de interação entre filtros e elementos visuais. Tirar a interação de cards totais e manter os cards de valor específico.~
+
+resultado final:
+![wireframe_dashboard](wireframe_dashboard.png)

@@ -1,0 +1,13 @@
+3_Microsoft Azure Predictive Maintenance
+
+  * **Link:** [Kaggle - Azure Predictive Maintenance](https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance)
+
+  * **Tabelas Selecionadas:**
+
+    1.  `PdM_errors.csv` (O estágio de "Aviso": Eventos de erro não críticos).
+    2.  `PdM_failures.csv` (O estágio de "Conversão": Eventos de quebra e troca de componente).
+
+  * **Contexto de Negócio:** Paradas não programadas (*downtime*) devido a falhas catastróficas estão gerando custos altíssimos. O problema é a falta de prova quantitativa de que erros específicos são indicadores confiáveis para mudar de manutenção reativa para proativa.
+
+  * **Business Case do Stakeholder (Gerente de Planta):**
+    *"Como Gerente de Operações, **preciso determinar a relação preditiva** entre as mensagens de erro do sistema e as falhas críticas. Quero entender a distribuição de tempo entre um erro e uma quebra. Se conseguirmos identificar uma 'zona de risco' (janela de tempo específica), podemos interceptar as máquinas antes que elas parem a produção. **Não podemos mais operar no prejuízo da quebra.**"*

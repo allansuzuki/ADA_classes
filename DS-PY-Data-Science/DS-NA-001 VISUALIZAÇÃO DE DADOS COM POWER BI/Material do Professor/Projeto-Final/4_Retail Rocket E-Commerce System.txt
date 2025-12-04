@@ -1,0 +1,11 @@
+4_Retail Rocket E-Commerce System
+
+  * **Link:** [Kaggle - Retail Rocket](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)
+
+  * **Tabelas Selecionadas:**
+	todas (3)
+
+  * **Contexto de Negócio:** Um varejista online sofre com uma alta taxa de abandono de carrinho. Há muito tráfego (*views*), mas a taxa de conversão para transação é baixa. A equipe de UX suspeita de um ponto de atrito entre adicionar ao carrinho e o checkout final.
+
+  * **Business Case do Stakeholder (Product Manager de Checkout):**
+    *"Como Product Manager, preciso de uma visão granular da eficiência do nosso funil. Estou interessado nas taxas de queda (*drop-off*) entre os eventos de 'Visualizar', 'Adicionar ao Carrinho' e 'Transação'. Mais importante, preciso visualizar o tempo médio que o usuário gasta no estágio de 'Carrinho'. **Precisamos saber se devemos criar um senso de urgência** (timer) ou se o problema é a complexidade do checkout."*

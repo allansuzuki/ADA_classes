@@ -1,0 +1,13 @@
+5_Instacart Market Basket Analysis
+
+  * **Link:** [Kaggle - Instacart Market Basket Analysis](https://www.google.com/search?q=https://www.kaggle.com/c/instacart-market-basket-analysis/data)
+
+  * **Tabelas Selecionadas:**
+
+    1.  `orders.csv` (Contém o tempo do funil de retenção: `days_since_prior_order`).
+    2.  `products.csv` (Para categorizar o tipo de produto comprado).
+
+  * **Contexto de Negócio:** O aplicativo de entrega só lucra com usuários recorrentes. Muitos fazem a primeira compra atraídos por cupons e nunca mais voltam. O time de Growth precisa entender o "hábito" do usuário.
+
+  * **Business Case do Stakeholder (Head de Growth & Retention):**
+    *"Como Head de Growth, estou preocupado com a nossa **curva de 'Hábito'**. Preciso de uma análise focada no intervalo de tempo entre o 1º e o 2º pedido. Se um cliente não refizer um pedido em até X dias, as chances dele voltar caem drasticamente? **Não podemos queimar nosso budget** em clientes que já se perderam. Preciso desses dados para configurar nossos *push notifications* no momento exato antes do cliente esfriar."*
