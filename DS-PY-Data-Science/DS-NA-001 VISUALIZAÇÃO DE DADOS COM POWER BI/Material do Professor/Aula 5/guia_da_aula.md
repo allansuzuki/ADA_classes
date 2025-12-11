@@ -19,3 +19,10 @@ No exercício 2, caso os alunos tenham tido contato com python no curso, é poss
 ## Arquivos complementares
 
 O arquivo ebooks_tratado, mostra o tratamento do dataset audible, com o passo a passo de algumas transformações no power query.
+
+----
+
+Nesta aula utilizo o audible para tentarmos juntos limpar os dados o mais possível.
+Tentar lidar com colunas de data, duration, separar autores, etc...
+
+O foco não é um dashboard, e sim o tratamento aprofundado dos dados no power query.

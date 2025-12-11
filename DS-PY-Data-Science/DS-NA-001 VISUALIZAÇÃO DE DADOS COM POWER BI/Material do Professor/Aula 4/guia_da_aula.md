@@ -25,3 +25,10 @@ Mostre como utilizar as measures no Gauge, fazendo por exemplo uma measure que s
 ## Arquivos complementares
 
 Esse dataset da copa do mundo é bastante interessante e tem grande volume de dados, ele serve tanto para o exercício quanto para as demonstrações
+
+----
+Nesta aula utilizo o dataset `Disney revenue`. é preciso um pequeno tratamento de dados no power query. as colunas quando nao carregadas elas retornam como texto. é preciso transformar em decimal.
+
+Neste caso mostramos um dashboard um pouco complexo, sendo que temos interesse em ver as categorias do total do revenue, uma tabela com o revenue total por ano e cards com cálculo do revenue CY, LY e YOY%.
+
+O ponto alto da aula será criar medidas que calculem o LY e o YOY, já que usa-se uma medida com a função CALCULATE() e filtragem ALL().
